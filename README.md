@@ -31,6 +31,6 @@ This repository contains the results of evaluating three different strategies fo
 
 ## Summary
 
-The results indicate that **Strategy C** is the most effective in increasing the chance of a positive outcome while reducing the likelihood of a negative outcome. This strategy's additional rule of taking both dice if their combined value exceeds 30 in the final roll significantly impacts the overall success rate in the game "30 with Dice."
+The results indicate that **Strategy C** is the most effective in increasing the chance of a positive outcome while reducing the likelihood of a negative outcome. This strategy's additional rule of taking both dice if their combined value exceeds 30 in the second to final roll significantly impacts the overall success rate in the game "30 with Dice."
 
 Feel free to explore the data and experiment with different strategies to see how they affect the outcomes!
