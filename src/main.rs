@@ -107,19 +107,19 @@ where
     }
     println!("Evaluating Strategy {}", type_name::<F>());
     println!(
-        "Percentage chance of staying neutral or being positive: {:.2}%",
+        "Percentage chance of staying neutral or being positive: {:.4}%",
         ((neutral + positive) as f64 / number_of_runs as f64) * 100f64
     );
     println!(
-        "Percentage chance of staying neutral: {:.2}%",
+        "Percentage chance of staying neutral: {:.4}%",
         (neutral as f64 / number_of_runs as f64) * 100f64
     );
     println!(
-        "Percentage chance of being positive: {:.2}%",
+        "Percentage chance of being positive: {:.4}%",
         (positive as f64 / number_of_runs as f64) * 100f64
     );
     println!(
-        "Percentage chance of being negative: {:.2}%",
+        "Percentage chance of being negative: {:.4}%",
         (negative as f64 / number_of_runs as f64) * 100f64
     );
     println!("");
